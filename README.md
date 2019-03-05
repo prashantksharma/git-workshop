@@ -10,6 +10,10 @@ Of course you should use your name
 `git config --global user.name "Example Surname"`  
 Same for the email address  
 `git config --global user.email "your.email@gmail.com" `
+2. `git clone [url]`
+3. `git status`
+4. `git add <filname>` or `git add .`
+5. `git commit -m <message>` and `git commit -am <modified message>`
 
 ## Advanced ( In a team)
 
