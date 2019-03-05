@@ -27,7 +27,7 @@ Same for the email address
    list all branches `git branch`  
    switch to existing branch `git checkout <branch-name>`  
    create a branch and switch to it `git checkout -b <branch-name>`
-2. Merge two branches
+2. Merge two branches  
   `git merge <source>`:(SOURCE to target) (make sure to be on target)
 3. Remote 
 4. 
