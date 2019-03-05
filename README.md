@@ -1,7 +1,7 @@
 # git-workshop
 basic intro to git 
 
-![git flow]('flow.png')
+![git flow](flow.png)
 
 # Curriculum
 ## Basic (Individual)
