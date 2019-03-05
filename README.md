@@ -16,7 +16,8 @@ Same for the email address
 5. `git commit -m <message>` and `git commit -am <modified message>`     
 6. `git push`    
 7. `git pull`  vs `git fetch`  
-8. `git log --filname`  
+8. `git log --filname`   
+9. `.gitignore`
 
 
 ## Advanced ( In a team)
