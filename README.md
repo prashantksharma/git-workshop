@@ -1,6 +1,8 @@
 # git-workshop
 basic intro to git 
 
+[git flow]('flow.png')
+
 # Curriculum
 ## Basic (Individual)
 1. Configure git
