@@ -7,3 +7,7 @@ basic intro to git
 3. making changes
 4. saving changes locally
 5. saving the changes locally
+
+## Reference
+1. https://glfmn.github.io/gh-slides/
+2. https://github.com/k88hudson/git-flight-rules
