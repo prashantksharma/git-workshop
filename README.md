@@ -6,12 +6,11 @@ basic intro to git
 1. Configure git
 
 configure the user which will be used by git
-Of course you should use your name
-`git config --global user.name "Example Surname"`
-Same for the email address
+Of course you should use your name  
+`git config --global user.name "Example Surname"`  
+Same for the email address  
 `git config --global user.email "your.email@gmail.com" `
 
-`
 ## Advanced ( In a team)
 
 ## GitHub Issues
