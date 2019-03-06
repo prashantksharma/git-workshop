@@ -46,3 +46,5 @@ Same for the email address
 ## Reference
 1. https://glfmn.github.io/gh-slides/
 2. https://github.com/k88hudson/git-flight-rules
+3. http://gitimmersion.com/lab_01.html 
+4. [How to Use Git/Github](https://www.youtube.com/watch?v=Loav1kbA640)
